@@ -1,2 +1,2 @@
 # knock
-An efficient way to poke your love ones. 
+An efficient way to poke your loved ones. 
